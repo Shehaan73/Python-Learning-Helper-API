@@ -20,5 +20,4 @@ This API allows you to manage topics, add coding examples, create quiz questions
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Shehaan73/Python-Learning-Helper-API
